@@ -1,1 +1,3 @@
-console.log("Hello! It's me!");
+exports.runFn = function () {
+    console.log("It's eslint-demo")
+}
